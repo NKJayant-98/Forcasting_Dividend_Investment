@@ -1,0 +1,12 @@
+{	# Please fill in the information for the stock.#####
+	
+	"Data Source":	 "Web",		# Enter from where the data should be retrieved from, Web (selenium) or Database.
+	"Name":		 "Enbridge",
+	"Stock":	 "lb.TO",	# Enter the stock symbol. Same as the name of file in data folder. Eg: ENB.TO
+	"Sector":	 'Energy',	# Enter the market the stock belongs to
+	"Historic Data": 8,		# Enter the number of years of historic data to be used to determine the growth rates
+	"Duration":	 30,		# Enter a digit for they total years of contribution "Initial Price": 24.07,		# Enter a digit with a decimal eg. 20.0
+	"Initial":	 4000,		# Enter the intial amount contributing
+	"Contribution":	 750		# Enter the yearly contribution 
+
+}

@@ -1,0 +1,24 @@
+{	#The portfolio. 
+	
+	"Contribution": 6000,
+	"Duration":	30,
+	"Histoy":	8,
+	"Sectors":	[['Energy','50%'], ['Real Estate','20%'], ['Capital Market & Investement Funds','15%'], ['Bank & Other','15%']],
+	"Stocks" :	[	#name, ticker, initial contribution, percentage of sector
+				#Energy Sector
+				['Enbridge','ENB.TO','Energy', 6000, '50%'],
+				['Inter Pipeline','IPL.TO','Energy', 3000,'25%'],
+				['Canadian Natural','CNQ.TO','Energy',2000,'25%'],
+
+				#REITs
+				['Slate Retail REIT','SRT-UN.TO','Real Estate',1500,'50%'],
+				['Northview Apartment REIT','NVU-UN.TO','Real Estate',1500,'50%'],
+				
+				#Capital Market & Investement Funds
+				['Alaris Royalty Corp','AD.TO','Capital Market & Investement Funds',1500,'100%'],
+
+				#Bank & Other
+				['Bank of Nova Scotia','BNS.TO','Bank & Other',1500,'50%'],
+				['Laurentian Bank','LB.TO','Bank & Other',1000,'50%']
+			]
+}

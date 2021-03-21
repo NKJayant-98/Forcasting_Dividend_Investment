@@ -1,0 +1,58 @@
+Sectors: RESOURCES & COMMODITIES, FINANCE, MANUFACTURING & INDUSTRY, UTILITIES AND CONSUMER
+Energy:   50% ($3000)
+	- INTER PIPELINE			- 750
+	- ENBRIDGE				- 1500 
+	- CANADIAN NATURAL RESOURCES		- 750
+						= $3000
+Real Estate Trusts: 20% ($1200)
+	- Slate Retail REIT			- 600
+	- Northview Apartment REIT (NVU-UN)	- 600
+						= $1200
+Capital Market & Investement Funds: 15% ($900)
+	- Alaris Royalty Corp			- 900
+						= $900
+Bank & Other:	15% ($900)
+	- Bank of Nova Scotia			- 450
+	- Laurentian Bank			- 450
+						= $900
+
+Stocks to add:
+- Cineplex (CGX.TO)
+- Telus (T.TO)
+
+	
+Updated to make:
+- functinality to be able to stop contributing to a stock after certain time 
+  or change contributions to certain stock after cetain time. 
+- Functionality to add or remove sectors
+- user input stocks, when asked to input a stock. The info should show up for the sector. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
